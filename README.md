@@ -1,6 +1,6 @@
 # Vessel Analysis Tool
 
-
+This was the product of a 3-week university summer research project to create a proof-of-concept library for segmentation and analysis of blood flow in vessels in the sclera.
 
 ## Features
 
